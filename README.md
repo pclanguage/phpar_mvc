@@ -40,3 +40,8 @@ Project Summary:
 3. Image process by ImageWorkShop
        - For Image thumb or re-size, here used ImageWorkShop library  -http://phpimageworkshop.com/
 
+Installation: 
+ 1. update BASE_URL from root/index.php 
+ 2. Create database named 'active_record' where user is root password blank. then import schema active_record.sql from db folder  
+ 3. If you want to change database config
+ 4. and browse accroding your base URl
