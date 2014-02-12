@@ -45,3 +45,5 @@ Installation:
  2. Create database named 'active_record' where user is root password blank. then import schema active_record.sql from db folder  
  3. If you want to change database config
  4. and browse accroding your base URl
+
+         Main Article: www.saidul.songzog.com
